@@ -1,0 +1,122 @@
+.Nametb,
+.Emailtb {
+    display: block;
+    width: 130px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+    border-width: 1px;
+}
+
+.Survey-suggestion {
+    font-weight: bold;
+    width: 250px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.Google {
+    display: block;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 150px;
+
+}
+.Google-Search {
+    margin-top: 10px;
+    width: 500px;
+    height: 35px;
+    border-radius: 30px;
+    border-style: none;
+    box-shadow: 1px 1px 3px 1px rgb(216, 213, 213);
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 16px;
+    
+}
+
+.First-name1 {
+    width: 100px;
+    height: 28px;
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+    margin-bottom: 0;
+
+}
+
+.First-name2 {
+    width: 100px;
+    height: 28px;
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+    margin-bottom: 0;
+}
+.Email2 {
+    margin-top: 10px;
+    display: block;
+    height:28px;
+    width: 213px;
+    border-radius: 10px;
+    border-color: aliceblue;
+    margin-bottom: 0;
+}
+
+
+.Sign-Up {
+    background-color: rgb(0, 153, 255);
+    color: white;
+    font-weight: bold;
+    height:35px;
+    width: 220px;
+    border-radius: 10px;
+    border:none;
+    margin-top: 10px
+
+}
+
+.Title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.location {
+    width: 300px;
+    background-color: rgb(245, 242, 242);
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 0;
+    height: 35px;
+    border:none;
+    border-radius: 3px;
+    padding-left: 20px;
+}
+.destination {
+    width: 300px;
+    background-color: rgb(245, 242, 242);
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 0;
+    height: 35px;
+    border:none;
+    border-radius: 3px;
+    padding-left: 20px;
+}
+.Request {
+    margin-top: 30px;
+    background-color: black;
+    color:white;
+    width:130px;
+    height:35px;
+    border:none;
+}
+.Schedule {
+    margin-top: 30px;
+    background-color:rgb(245, 242, 242);
+    width:130px;
+    height:35px;
+    border:none;
+    margin-left: 10px;
+}
